@@ -1,0 +1,2 @@
+This is code for the MSP432 microprocessor to work on timer interrupts it follows a
+ traffic light behaviour. The microprocessor output goes through an infinite cycle: green light for 5 seconds, yellow light for 1 second, red light for 3 seconds. Implement a timer-based solution for this problem. The timer ISR should keep track of the time, and when the right time comes, change the MSP432 microprocessor to  the color . .
